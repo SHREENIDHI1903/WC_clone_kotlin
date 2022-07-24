@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "922459272487",
+    "firebase_url": "https://wc-clone-default-rtdb.firebaseio.com",
+    "project_id": "wc-clone",
+    "storage_bucket": "wc-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922459272487:android:2b2a492131499f65b92502",
+        "android_client_info": {
+          "package_name": "com.example.wcclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922459272487-1f2oc4ltumde8ll3m18e0k9ofmoganrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXpdvWefQGpORHyy_-A37O9euG_rxIdko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922459272487-1f2oc4ltumde8ll3m18e0k9ofmoganrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
